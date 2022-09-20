@@ -1,7 +1,11 @@
 *,
 ::after,
 ::before {
+<<<<<<< Updated upstream
   margin: 0;
+=======
+
+>>>>>>> Stashed changes
   padding: 0;
   box-sizing: border-box;
 }
@@ -88,6 +92,7 @@ p {
   color: #232586;
 }
 
+<<<<<<< Updated upstream
 .section {
   padding: 5rem 0;
 }
@@ -158,6 +163,10 @@ main {
   border-top-right-radius: 0.5rem;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
+=======
+.transparent{
+	color: none;
+>>>>>>> Stashed changes
 }
 
 .tab-btn:nth-child(1) {
